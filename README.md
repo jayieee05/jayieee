@@ -1,12 +1,25 @@
-# 💫 About Me:
-⚡ I'm currently first-year student pursuing a Bachelor of Science in Information Technology at Holy Cross of Davao College.
+<h1 align="left">Hello👋 What's up?</h1>
 
+###
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jaymarc.torrefranca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayie.es) 
+<p align="left">Here’s a simple introduction to who I am and what I do.</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+###
 
+<h2 align="left">About me</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p align="left">✨ I'm currently first-year student pursuing a Bachelor of Science in Information Technology at Holy Cross of Davao College.</p>
+
+###
+
+<h2 align="left">I code with:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
