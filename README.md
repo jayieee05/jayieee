@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently first-year student pursuing a Bachelor of Science in Information Technology at Holy Cross of Davao College.</p>
+<p align="left">✨ I'm currently a first-year student pursuing a Bachelor of Science in Information Technology at Holy Cross of Davao College, I am passionate about expanding my knowledge in the field. my free time, I enjoy playing video games, which not only serves as a fun escape but also enhances my problem-solving skills and creativity. I am excited about the journey ahead as I continue to learn and grow in this dynamic area of study.</p>
 
 ###
 
